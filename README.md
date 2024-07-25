@@ -1,5 +1,7 @@
 # Chapter 04_01
 
+# Build Status Badge: ![](https://github.com/fgharo/linkedin-learning-github-actions-ch03-passing-arguments-to-an-action/workflows/Pipeline/badge.svg)
+
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the lesson like `exercise-files`.
 
 - In a terminal, run the following commands to initialize the directory as a git repository.
